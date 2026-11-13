@@ -1,0 +1,27 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ],
+    "java.debug.settings.onBuildFailureProceed": true,
+    "cSpell.words": [
+        "CCCD",
+        "Chuc",
+        "chucvu",
+        "Cuoc",
+        "Dien",
+        "hokhau",
+        "hoten",
+        "Khau",
+        "Khoan",
+        "Lanh",
+        "mluong",
+        "QLNV",
+        "Quan",
+        "quequan",
+        "Thoai",
+        "thuclanh",
+        "Thuong"
+    ]
+}
